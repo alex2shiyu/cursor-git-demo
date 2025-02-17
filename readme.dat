@@ -1,1 +1,31 @@
 We are going to do some test for using cursor and git at the same time.
+
+## Usage
+Provide examples and instructions for using your project.
+
+## Features
+* List key features of your project
+* What makes it unique
+* What problems it solves
+
+## Contributing
+Instructions for how others can contribute to your project:
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+State what license your project is under. For example:
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Contact
+* Your Name
+* Email
+* Project Link
+
+## Acknowledgments
+* List any resources, inspirations, or credits
+* Thank contributors
+* Link to helpful tutorials or documentation
